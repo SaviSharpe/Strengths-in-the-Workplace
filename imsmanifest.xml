@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<manifest identifier="AetXbE32RrV6RQPR1RQGGoOKrnwlbMsQxKcfveBh" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Using Your Strengths in the Workplace</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Using Your Strengths in the Workplace</title>
+        <adlcp:datafromlms>eyJjcHYiOiJ4S2NmdmVCaCIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+      <file href="scormcontent/lib/main.bundle.js"/>
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/main.bundle.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Black.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Italic.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Bold.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Regular.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Light.woff" />
+<file href="scormcontent/lib/fonts/Inter-Medium.woff" />
+<file href="scormcontent/lib/fonts/Inter-Black.woff" />
+<file href="scormcontent/lib/fonts/Inter-Bold.woff" />
+<file href="scormcontent/lib/fonts/Inter-Regular.woff" />
+<file href="scormcontent/lib/fonts/Inter-Light.woff" />
+<file href="scormcontent/assets/5bPtqhVNHu-ltL4h_small.png" />
+<file href="scormcontent/assets/p9GLJKvo9ztT2FgK_WT1oavMhfpfe_tzZ.jpg" />
+<file href="scormcontent/assets/kKb7ooYDiwKzckNa_eqf1kX3IzkdXCTW3.jpg" />
+<file href="scormcontent/assets/XA25NA5no-QSMsxi_s26t20WWs9Sdft1U.jpg" />
+<file href="scormcontent/assets/5jmtK-__jZiRUj4S_kwd6FhH8ZKfEk7Qp.jpg" />
+<file href="scormcontent/assets/Modme9IUsPPYRtXs_vHmD0Tk6Z_mGuETU.jpg" />
+<file href="scormcontent/assets/7YT7VC_7A9E7LR7v_TfpcrzcBEYPvQ-Sx.jpg" />
+<file href="scormcontent/assets/ETVNfv4E37nHSyvy_nbR2tpUITuIoREL6.jpg" />
+<file href="scormcontent/assets/IjO85Ewj6o0482HQ_M8-3vQLZ_Mtr3qXl.png" />
+<file href="scormcontent/assets/mHVPRQOa0uHQMH-x_MeuxSrJRocGJPlAI.png" />
+<file href="scormcontent/assets/Hny_hmjYlan4zm8L_PHTSjoSga-B_tYDF.jpg" />
+<file href="scormcontent/assets/Fdj5FnHZOwTXV0a6_95nQh4QGfeGiDHG1.jpg" />
+<file href="scormcontent/assets/5IK51d_pptSn3fUg_transcoded-jmjDOLiLarMclN6k-HP%20Gryffindor-00001.png" />
+<file href="scormcontent/assets/IqJdlMHKyZLnb_YL_transcoded-jmjDOLiLarMclN6k-HP%20Gryffindor.mp4" />
+<file href="scormcontent/assets/lnb8sSss705x2NVX_transcoded-AyG4T1nZXDVzXuD6-HP%20Hufflepuff-00001.png" />
+<file href="scormcontent/assets/7I670t20pBt0EFC7_transcoded-AyG4T1nZXDVzXuD6-HP%20Hufflepuff.mp4" />
+<file href="scormcontent/assets/fhQ5xmtaT6_-_j-y_transcoded-maczjwmOYoDRPgzZ-HP%20Ravenclaw-00001.png" />
+<file href="scormcontent/assets/0avbcu_F2gdAQ4Jk_transcoded-maczjwmOYoDRPgzZ-HP%20Ravenclaw.mp4" />
+<file href="scormcontent/assets/EAmhZFWc-C42BJBH_transcoded-dxRMh6BWH1kgpSSB-HP%20Slytherin-00001.png" />
+<file href="scormcontent/assets/bUZYTWKS_t6_kwEZ_transcoded-dxRMh6BWH1kgpSSB-HP%20Slytherin.mp4" />
+<file href="scormcontent/assets/HNCI2YnFQejc2E9H_quote_background.jpg" />
+<file href="scormcontent/assets/AGxZ3a_mhCMrV3tP_PeHe1ph1wV3E5Gw_.jpg" />
+<file href="scormcontent/assets/uiYt8f9ICTXEFiyI_cover-image-0.jpg" />
+<file href="scormcontent/assets/xvcYi0YlnJTUp77t_example-header-image.jpg" />
+
+    </resource>
+  </resources>
+</manifest>
